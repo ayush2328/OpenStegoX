@@ -1,3 +1,4 @@
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 # OpenStegoX 🔐🖼️
 
 OpenStegoX is a custom **macOS steganography tool** inspired by OpenStego.  
